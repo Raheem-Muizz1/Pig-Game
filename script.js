@@ -1,5 +1,4 @@
 'use strict';
-alert(`when ever you roll a one (1) dice, your score returns to zero(0)`);
 // Selcting elements
 const player0El = document.querySelector(`.player--0`);
 const player1El = document.querySelector(`.player--1`);
